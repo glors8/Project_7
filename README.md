@@ -1,3 +1,3 @@
 # Project_7
 Este poyecto tiene como objetivo construir y desplegar un panel de control de una aplicación web en un servicio en la nube.
-Esto se logra a través de una aplicación que muestra un histograma de la relación entre el precio y la cantidad de metros que marca un odometro para distintos tipos de autos y de diferentes marcas. 
+Esto se logra a través de una aplicación que muestra un histograma de la relación entre la cantidad de metros que marca un odometro de los autos del dataset, así como también una gráfica de dispersión que refleja la relación entre el precio y la cantidad marcada en metros del odometro. 
